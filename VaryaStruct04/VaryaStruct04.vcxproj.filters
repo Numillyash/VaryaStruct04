@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="VaryaStruct04.c">
+    <ClCompile Include="VaryaStruct04.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

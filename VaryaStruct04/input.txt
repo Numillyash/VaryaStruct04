@@ -1,3 +1,8 @@
-parse -5
-eval
+parse a+b
+eval a=1,b=5
+parse (25#15)!
 save_prf
+eval a=1
+load_prf !#25 15
+eval a=1
+exit
